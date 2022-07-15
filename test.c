@@ -1,1 +1,1 @@
-this file contains the c lang code.. for practice
+this file contains the c lang code.. for practice..
